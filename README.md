@@ -60,7 +60,7 @@ This is a Web3 dApp for crowdfunding using crypto. Users can connect or sign up 
 4. **Start the web app:**
 
    ```bash
-   npm run dev
+   npm run start
     ```
 
 ## App Usage:
